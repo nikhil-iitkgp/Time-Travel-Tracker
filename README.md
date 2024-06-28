@@ -1,10 +1,10 @@
-# Time Travel Tracker
+# Travel Tracker
 
 A web application for tracking your travels and visited places, built with Node.js, Express.js, and PostgreSQL. Visualize your travel journey on an interactive map.
 
 ## Project Description
 
-The Time Travel Tracker allows users to mark visited countries and cities on an interactive map, providing insights into their travel history and future plans.
+The Travel Tracker allows users to mark visited countries and cities on an interactive map, providing insights into their travel history and future plans.
 
 ## Features
 
@@ -12,6 +12,9 @@ The Time Travel Tracker allows users to mark visited countries and cities on an 
 - **Travel Log**: Maintain a log of visited countries and cities.
 - **User Authentication**: Secure user accounts and travel data.
 - **Responsive Design**: Accessible on desktop and mobile devices.
+- **Family Travel Tracking**: Add and manage family members' travel logs.
+- **Customizable Map Colors**: Choose a color to represent your travels.
+- **Error Handling and Notifications**: Inform users about issues like duplicate entries or non-existent countries.
 
 ## Technologies Used
 
@@ -25,8 +28,8 @@ The Time Travel Tracker allows users to mark visited countries and cities on an 
 
 1. **Clone the Repository**:
     ```bash
-    git clone git@github.com:your-username/time-travel-tracker.git
-    cd time-travel-tracker
+    git clone git@github.com:your-username/travel-tracker.git
+    cd travel-tracker
     ```
 
 2. **Install Dependencies**:
@@ -50,6 +53,8 @@ The Time Travel Tracker allows users to mark visited countries and cities on an 
 - Log in to start marking your travels on the map.
 - Add countries and cities you've visited to see them on the map.
 - Explore and manage your travel history and future plans.
+- Add family members and manage their travel logs.
+- Customize your map colors to make your travel visualization unique.
 
 ## Contributing
 
